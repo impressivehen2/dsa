@@ -1,4 +1,4 @@
-package com.impressivehen.dsa.datastructure.trie;
+package com.impressivehen.dsa.datastructure.trie.Trie;
 
 import com.impressivehen.dsa.Job;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnProperty;
